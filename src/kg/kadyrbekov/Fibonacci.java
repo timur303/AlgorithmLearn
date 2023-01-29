@@ -41,6 +41,7 @@ public class Fibonacci {
         return arr[n];
     }
 
+    //memoization
     private static long fibNaiveMem(int n, long[] mem) {
         if (mem[n] != -1)
             return mem[n];
