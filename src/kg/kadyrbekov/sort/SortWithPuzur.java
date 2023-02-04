@@ -1,4 +1,7 @@
 package kg.kadyrbekov.sort;
+/**
+ * @author Timur Kadyrbekov
+ */
 
 public class SortWithPuzur {
     public static void main(String[] args) {
